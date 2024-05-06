@@ -1,6 +1,8 @@
 # Ray Tracer
 Implemented ray tracer from a book "Computer Graphics from Scratch" and added:
-Toggles for every step of ray tracing,
-Colored lights,
-Movement with arrow keys,
-Rotations with WASD keys.
+<ul>
+  <li>Toggles for every step of ray tracing</li>
+  <li>Colored lights</li>,
+  <li>Movement with arrow keys</li>,
+  <li>Rotations with WASD keys</li>.
+</ul>
